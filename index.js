@@ -5,3 +5,7 @@ return `Happy holidays!`
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
+//returns happy holidays to the name inputted in
+function happyHolidaysTo(holiday, name) {
+  return `Happy ${holiday}, ${name}!`
+}
