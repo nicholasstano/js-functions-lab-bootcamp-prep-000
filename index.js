@@ -13,3 +13,4 @@ function happyHolidayTo(holiday, name) {
 function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`
 }
+//returns the number of days inputted to the holiday inputted.
